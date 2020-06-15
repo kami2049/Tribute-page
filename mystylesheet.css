@@ -1,6 +1,28 @@
+*{
+  font-family: "Playfair Display", "serif";
+}
+
+body{
+  background-color: bisque;
+}
+
+header{
+  text-align: center;
+}
+
 img{
     display:block;
     max-width:100%;
     width:auto;
     margin:0 auto;
+    border-radius: 5%;
+  }
+
+  #img-caption{
+    text-align: center;
+  }
+
+  #tribute-info{
+    background-color: white;
+    padding: 5px;
   }
